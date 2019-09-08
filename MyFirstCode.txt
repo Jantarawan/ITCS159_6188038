@@ -2,3 +2,4 @@ Hello world!!
 The faculty of ICT
 This is my new feature
 This is my new feature 2
+add from the myNewFeature
